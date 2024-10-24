@@ -1,0 +1,17 @@
+.rowsPhotos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+}
+.rowsPhotos div {
+    border: 1px solid black;
+}
+
+.rowsPhotos img {
+    width: 450px;
+    height: 300px;
+    
+}
+
