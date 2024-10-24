@@ -1,3 +1,7 @@
+body{
+    text-align: center;
+}
+
 .rowsPhotos {
     display: flex;
     justify-content: space-around;
